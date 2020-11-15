@@ -6,6 +6,6 @@ class School
   end
 
   roster = {}
-  
-  def roster 
-end 
+
+  def roster
+end
