@@ -15,8 +15,8 @@ class School
     @student_name = name
     @grade = grade
     if @roster.include?(grade) == false
-    @hash[grade] = []
+    @roster[grade] = []
     end
-    @hash[grade] << name
+    @roster[grade] << name
   end
 end
