@@ -18,4 +18,5 @@ class School
     @hash[grade] = []
     end
     @hash[grade] << name
+  end
 end
