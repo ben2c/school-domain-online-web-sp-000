@@ -8,6 +8,7 @@ class School
   roster = {}
 
   def roster
-    roster
+    return roster
   end
+  
 end
