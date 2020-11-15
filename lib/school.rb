@@ -10,5 +10,5 @@ class School
   def roster
     return roster
   end
-  
+
 end
